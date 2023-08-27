@@ -15,6 +15,16 @@ Decrypts files with `.hc` extension, for the app [HTTP Custom](https://play.goog
     python3
     pycryptodome
 
+## Ubuntu 20
+
+    $ sudo apt-get update
+    $ sudo apt-get install python3
+
+    $ sudo apt-get install build-essential libgmp3-dev python3-dev
+    $ sudo apt-get install pip
+    $ pip install pycryptodomex
+    $ python3 -m Cryptodome.SelfTest
+    
 ## Installation
 
     git clone https://github.com/HCTools/hcdecryptor.git
