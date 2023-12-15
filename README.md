@@ -27,7 +27,7 @@ Decrypts files with `.hc` extension, for the app [HTTP Custom](https://play.goog
     
 ## Installation
 
-    git clone https://github.com/HCTools/hcdecryptor.git
+    git clone https://github.com/Trappyke/hcdecryptor.git
     cd hcdecryptor
     pip3 install -r requirements.txt
 
